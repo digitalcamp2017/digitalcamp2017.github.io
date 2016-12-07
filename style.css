@@ -23,6 +23,20 @@ h1 {
   margin: 0 auto;
   width: 1000px;
 }
+.contribute{
+  text-decoration: none;
+  background: #36D7B7;
+  color: #1F3A93;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 10px;
+  border: 0;
+  margin-bottom: 40px;
+  font-size: 12px;
+}
+.contribute:hover{
+  text-decoration: none;
+}
 
 .digitalcamp2017{
     background: #36D7B7;
